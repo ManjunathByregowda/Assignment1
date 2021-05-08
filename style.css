@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Indie Flower', cursive; 
+}
+
+.joc {
+    background-color: white;
+    height: 50vh;
+    padding: 80px 50px;
+    
+}
+
+.joc h2{
+    color: #5eb6cc;
+    margin-bottom: 30px;
+}
+
+.joc h3{
+    color: #94b541;
+    margin-bottom: 20px
+}
+
+.joc p{
+    color: rgb(180, 165, 165);
+}
+
+.monthly-sub {
+    background-color: #367f91;
+    width: 50%;
+    height: 50vh;
+    float: left;
+    padding: 50px;
+}
+
+.monthly-sub h3{
+    color: white;
+    margin-bottom: 20px;
+}
+
+#price {
+    color: white;
+    font-size: 40px;
+}
+
+#price-desc {
+    color: rgb(212, 208, 208);  
+}
+
+.monthly-sub p {
+    color:rgb(231, 210, 210);;
+    margin: 20px 0px;
+}
+
+button{
+    padding: 14px 80px;
+    border-radius: 10px;
+    border: none;
+    background-color: #afce62;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.why-us {
+    background-color:#5eb6cc;
+    width: 50%;
+    float: left;
+    height: 50vh;
+    padding: 50px;
+}
+
+.why-us ul {
+    list-style-type: none;
+}
+
+.why-us h3{
+    color: white;
+    margin-bottom: 20px;
+}
+
+.why-us li {
+    padding: 4px 0px;
+    color: rgb(231, 210, 210);
+}
